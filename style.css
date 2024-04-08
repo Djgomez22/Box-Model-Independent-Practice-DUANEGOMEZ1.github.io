@@ -1,0 +1,67 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+img {
+    height: 200px;
+}
+
+
+h3{
+
+width: 100px;
+    padding: 10px;
+    border:darkgrey 10px solid;
+  margin: 10px;
+  background-color:lightcoral;
+  border-radius:20cm;
+
+  
+}
+
+
+
+
+img{
+      background-color: lightcoral;
+    width: 200px;
+    padding: 3px;
+    border: black 1px solid;
+    border-radius:60cm; 
+}
+
+p{
+  width: 150px;
+    padding: 10px;
+    border: darkgrey 10px solid;
+  margin: 10px;
+  background-color:lightcoral;
+  
+}
+  
+title{
+  
+}
+
+body{
+
+}
+#con{
+  max-width:1000px;
+  margin:0px auto;
+  padding:20px 60px;
+  border:darkred 10px solid;
+  
+}
+
+h1{
+  height:40px;
+width: 600px;
+    padding: 10px;
+    border:darkgrey 10px solid;
+  margin: 10px;
+  background-color:lightcoral;
+  border-radius:20cm;
+  
+}
